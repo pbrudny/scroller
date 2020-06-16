@@ -1,2 +1,0 @@
-# scroller
-Created with CodeSandbox
